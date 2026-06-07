@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run *)",
+      "Bash(gh auth *)",
+      "Bash(git config *)",
+      "Bash(git add *)",
+      "Bash(git commit *)",
+      "Bash(npx tsc *)",
+      "Bash(git rm *)",
+      "Bash(Remove-Item -Recurse -Force \"C:\\\\Metanetglobal\\\\Claude교육_26.6\\\\Claude-nextjs-starters\\\\my-app\\\\.git\")",
+      "Bash(Remove-Item -Recurse -Force \"C:\\\\Metanetglobal\\\\Claude교육_26.6\\\\Claude-nextjs-starters\\\\next-monorepo\\\\.git\")"
+    ]
+  }
+}
