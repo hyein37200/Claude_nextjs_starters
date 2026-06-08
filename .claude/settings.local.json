@@ -9,7 +9,10 @@
       "Bash(npx tsc *)",
       "Bash(git rm *)",
       "Bash(Remove-Item -Recurse -Force \"C:\\\\Metanetglobal\\\\Claude교육_26.6\\\\Claude-nextjs-starters\\\\my-app\\\\.git\")",
-      "Bash(Remove-Item -Recurse -Force \"C:\\\\Metanetglobal\\\\Claude교육_26.6\\\\Claude-nextjs-starters\\\\next-monorepo\\\\.git\")"
+      "Bash(Remove-Item -Recurse -Force \"C:\\\\Metanetglobal\\\\Claude교육_26.6\\\\Claude-nextjs-starters\\\\next-monorepo\\\\.git\")",
+      "Bash(git remote *)",
+      "Bash(git push *)",
+      "Bash(gh repo *)"
     ]
   }
 }
